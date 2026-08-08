@@ -986,6 +986,7 @@ button:focus-visible {
 	.services__item-main {
 		justify-self: center;
 		max-width: 35%;
+		font-size: 14px;
 	}
 
 	.services__item-bottom {
@@ -1020,6 +1021,7 @@ button:focus-visible {
 	.services__item-main {
 		justify-self: center;
 		max-width: 1210px;
+		font-size: 16px;
 	}
 
 	.services__item-bottom {
