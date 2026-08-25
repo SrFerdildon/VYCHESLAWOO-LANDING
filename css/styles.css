@@ -478,7 +478,7 @@ button:focus-visible {
 .about__text {
 	font-size: 12px;
 	line-height: 120%;
-	text-align: justify;
+	text-align: left;
 	padding-bottom: 10px;
 	opacity: 0;
 }
